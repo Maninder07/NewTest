@@ -1,2 +1,6 @@
+GitRepositoriesView.GitDirectories=D\:\\Learning_14_Sep\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogDeepSearch=true
+RepositorySearchDialogSearchPath=D\:\\Learning_14_Sep
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
